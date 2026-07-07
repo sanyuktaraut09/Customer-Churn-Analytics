@@ -1,6 +1,16 @@
+# Virtual Environment
 venv/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# Jupyter
 .ipynb_checkpoints/
-.DS_Store
+
+# Environment variables
 .env
+
+# OS files
+.DS_Store
+Thumbs.db
