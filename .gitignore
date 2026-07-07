@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 # Virtual Environments
 venv/
 .venv/
 
 # Python
+=======
+# Virtual Environment
+venv/
+
+# Python cache
+>>>>>>> 723721de6d35b98aecd2244fd9ca3c1fe4a8a1c6
 __pycache__/
 *.pyc
 
@@ -14,4 +21,8 @@ __pycache__/
 
 # OS files
 .DS_Store
+<<<<<<< HEAD
 Thumbs.db
+=======
+Thumbs.db
+>>>>>>> 723721de6d35b98aecd2244fd9ca3c1fe4a8a1c6
